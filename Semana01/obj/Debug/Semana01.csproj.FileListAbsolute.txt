@@ -1,0 +1,11 @@
+C:\Users\Alumno\source\repos\Semana01\Semana01\bin\Debug\Semana01.exe.config
+C:\Users\Alumno\source\repos\Semana01\Semana01\bin\Debug\Semana01.exe
+C:\Users\Alumno\source\repos\Semana01\Semana01\bin\Debug\Semana01.pdb
+C:\Users\Alumno\source\repos\Semana01\Semana01\obj\Debug\Semana01.csprojAssemblyReference.cache
+C:\Users\Alumno\source\repos\Semana01\Semana01\obj\Debug\Semana01.Form1.resources
+C:\Users\Alumno\source\repos\Semana01\Semana01\obj\Debug\Semana01.Properties.Resources.resources
+C:\Users\Alumno\source\repos\Semana01\Semana01\obj\Debug\Semana01.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\Semana01\Semana01\obj\Debug\Semana01.exe
+C:\Users\Alumno\source\repos\Semana01\Semana01\obj\Debug\Semana01.pdb
+C:\Users\Alumno\source\repos\Semana01\Semana01\obj\Debug\Semana01.frmClientes.resources
+C:\Users\Alumno\source\repos\Semana01\Semana01\obj\Debug\Semana01.lblCantidad.resources
